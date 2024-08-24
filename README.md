@@ -1,0 +1,1 @@
+This is a python program written at jupyter notebook. This program is to get the normal distribution from summing two random numbers for nth times(for example- sum of two random numbers for 100 times)
